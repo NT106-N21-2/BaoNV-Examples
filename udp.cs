@@ -19,6 +19,8 @@ namespace UDP
 			Byte[] sendBytes = Encoding.UTF8.GetBytes("Lập trình mạng căn bản");
 
 			udpClient.Send(sendBytes, sendBytes.Length, tbHost.Text, 8080);
+
+            #udp server
 		}
 
 		private void button1_Click(object sender, EventArgs e)
