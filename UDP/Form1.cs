@@ -27,6 +27,11 @@ namespace UDP
 			// udp server code 2
 			// udp server code 3
 			// udp server code 4
+			// udp client code 1
+			// udp client code 2
+			// udp client code 3
+			// udp client code 4
+			// udp client code 5
 		}
 	}
 }
