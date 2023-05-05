@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telnet", "Telnet\Telnet.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDP", "UDP\UDP.csproj", "{FAE8FB58-7037-429D-8034-8B0984F04CBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4", "Bai4\Bai4.csproj", "{77F64358-63FB-48C2-8309-5D5528B8683C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FAE8FB58-7037-429D-8034-8B0984F04CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE8FB58-7037-429D-8034-8B0984F04CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE8FB58-7037-429D-8034-8B0984F04CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F64358-63FB-48C2-8309-5D5528B8683C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F64358-63FB-48C2-8309-5D5528B8683C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F64358-63FB-48C2-8309-5D5528B8683C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F64358-63FB-48C2-8309-5D5528B8683C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
